@@ -8,3 +8,4 @@ DEVICE TREE: https://github.com/acheron1502/android_device_BLU_BLU_PURE_XL
 Thanks
 - Cyanogenmod Team
 # vendor_BLU_DASH_X2
+# vendor_BLU_DASH_X2
